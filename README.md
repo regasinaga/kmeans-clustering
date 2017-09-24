@@ -1,6 +1,6 @@
 # Hierarchical Clustering
 
-Example of k-means clustering with python
+Example of k-means clustering with python with dummy data
 
 ## Getting Started
 
