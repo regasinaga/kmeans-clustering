@@ -1,4 +1,4 @@
-# Hierarchical Clustering
+# K-Means Clustering
 
 Example of k-means clustering with python with dummy data
 
